@@ -1,4 +1,3 @@
-os
 openai
 PIL
 streamlit as st
@@ -9,6 +8,5 @@ os
 matplotlib
 japanize_matplotlib
 time
-all_func
 csv
 codecs
