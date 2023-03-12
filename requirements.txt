@@ -1,6 +1,6 @@
 openai
 PIL
-streamlit as st
+streamlit
 numpy
 pandas
 typing
